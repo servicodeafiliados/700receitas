@@ -1,6 +1,6 @@
 url: 'https://servicodeafiliados.github.io/'
 baseurl: '700receitas'
-title: '700receitas'
+title: ''
 
 plugins:
   - jekyll-postcss
