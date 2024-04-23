@@ -1,6 +1,6 @@
 url: 'https://servicodeafiliados.github.io/'
 baseurl: '700receitas'
-title: ''
+title: '700 Receitas Zero Açúcar e Glúten'
 
 plugins:
   - jekyll-postcss
