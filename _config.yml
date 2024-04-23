@@ -1,6 +1,6 @@
-url: ''
-baseurl: ''
-title: 'Jekyllwind'
+url: 'https://servicodeafiliados.github.io/'
+baseurl: '700receitas'
+title: '700receitas'
 
 plugins:
   - jekyll-postcss
