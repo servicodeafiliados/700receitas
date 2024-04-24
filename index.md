@@ -44,7 +44,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
   </div>
 
   <div class="w-4/5 grid grid-cols-4 gap-4 mx-auto text-[#004460] pb-16">
-
     <div class="border border-gray-400 rounded-xl p-8 text-center hover:shadow-md hover:shadow-[#004460]">
       <div class="mb-8 bg-white">
         <svg class="fill-[#004460] w-14 mx-auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="m173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69L432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001"/></svg>
@@ -56,7 +55,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         Todas as receitas foram criadas para te proporcionar uma alimentação com muito sabor e prazer, ao mesmo tempo que te ajudam a ter o controle dos índices glicêmicos.
       </div>
     </div>
-
     <div class="border border-gray-400 rounded-xl p-8 text-center hover:shadow-md hover:shadow-[#004460]">
       <div class="mb-8 bg-white">
         <svg class="fill-[#004460] w-14 mx-auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="m173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69L432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001"/></svg>
@@ -68,7 +66,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         Você vai ter centenas de opções de receitas para nunca enjoar e nunca comer a mesma coisa. O material foi feito para quem quer ter uma vida saudável e sem restrições.
       </div>
     </div>
-
     <div class="border border-gray-400 rounded-xl p-8 text-center hover:shadow-md hover:shadow-[#004460]">
       <div class="mb-8 bg-white">
         <svg class="fill-[#004460] w-14 mx-auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="m173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69L432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001"/></svg>
@@ -80,7 +77,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         A má qualidade do SONO é uma consequência do diabetes. As receitas ajudam na neutralização da <b>NEUROPATIA DIABÉTICA</b>, tornando o sono <b>TRANQUILO</b> e DURADOURO.
       </div>
     </div>
-
     <div class="border border-gray-400 rounded-xl p-8 text-center hover:shadow-md hover:shadow-[#004460]">
       <div class="mb-8 bg-white">
         <svg class="fill-[#004460] w-14 mx-auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="m173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69L432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001"/></svg>
@@ -92,7 +88,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         Ao controlar a glicemia e manter o corpo em equilíbrio, a mente também se beneficia e muito, fazendo com que a liberação de hormônios e o nível de estresse seja baixíssimo.
       </div>
     </div>
-
   </div>
 </div>
 
@@ -114,7 +109,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
   </div>
 
   <div class="w-4/5 grid grid-cols-3 gap-4 mx-auto text-[#004460] pb-16">
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/pao-integral.png" />
@@ -126,7 +120,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         RECEITAS PARA CAFÉ DA MANHÃ E LANCHES QUE VOCÊ <b>NUNCA</b> VIU ANTES! MODO DE PREPARO RÁPIDO COM INGREDIENTES PRÁTICOS E BARATOS!
       </div>
     </div>
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/almoco-e-jantar.png" />
@@ -138,7 +131,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         USE E ABUSE DOS MAIS DIFERENTES E SABOROSOS PRATOS PARA O SEU DIA-A-DIA E EVENTOS ESPECIAIS! FEITOS COM INGREDIENTES QUE VOCÊ TEM EM CASA E QUE NÃO VÃO <b>DESCONTROLAR</b> A SUA GLICEMIA.
       </div>
     </div>
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/doces-e-sobremesas.png" />
@@ -150,7 +142,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         SÃO MAIS DE 100 OPÇÕES DE DOCES E SOBREMESAS <b>SEM GLÚTEN</b> E <b>SEM AÇÚCAR</b> PARA VOCÊ FAZER QUANTAS VEZES E A QUANTIDADE QUE QUISER E COMER SEM CULPA NENHUMA!
       </div>
     </div>
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/sopas-e-cremes.png" />
@@ -162,7 +153,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         SOPAS, CREMES, CALDOS, TUDO ELABORADO COM INGREDIENTES <b>NUTRITIVOS</b> E <b>TEMPEROS ESPECIAIS</b>!
       </div>
     </div>
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/molhos-e-pates.jpg" />
@@ -174,7 +164,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         MOLHOS E PATÊS DE DAR ÁGUA NA BOCA QUE VÃO DAR UM TOQUE ESPECIAL E SABOROSO NOS SEUS PRATOS! <b>A SUA ALIMENTAÇÃO NUNCA MAIS SERÁ A MESMA</b>!
       </div>
     </div>
-
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
         <img src="https://servicodeafiliados.github.io/700receitas/assets/img/farinhas-caseiras.png" />
@@ -186,7 +175,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         TODAS <b>SEM GLÚTEN</b> E COM <b>BAIXO ÍNDICE GLICÊMICO</b> PARA VOCÊ PREPARAR BOLOS, PÃES, DOCES E OUTROS PRATOS SEM PREOCUPAÇÃO.
       </div>
     </div>
-
   </div>
 
 </div>
@@ -200,23 +188,18 @@ title: "700 Receitas Zero Açúcar e Glúten"
           SABE AQUELES SINTOMAS DO DIABETES QUE TANTO ATRAPALHA O SEU DIA A DIA? ESQUEÇA! ESQUEÇA TAMBÉM UMA ALIMENTAÇÃO RESTRITA, SEM GRAÇA, QUE TIRA TODO O SEU PRAZER DE COMER!
         </span>
       </h1>
-
       <p class="text-lg pt-16 pb-8">
         Sabemos o quão difícil é ter diabetes e conviver com os sintomas todos os dias. Você pode pensar que é uma sentença de prisão perpétua em que está atolado em injeções dolorosas e uma rotina de ter que negar a si mesmo os prazeres da comida para sempre.
       </p>
-
       <p class="text-lg pb-8">
         Mas estamos aqui para te provar o contrário! Agora você pode comer os mais diferentes e saborosos tipos de comidas e ainda manter o equilíbrio para que os níveis de açúcar no sangue não sejam mais um problema para você. 
       </p>
-
       <p class="text-lg pb-8">
         Mesmo que você se sinta perdida, ansiosa e mesmo que você não entenda nada sobre nutrição e diabetes! Coma bem, sentindo o gosto dos alimentos e ainda controle a glicemia de forma natural! 
       </p>
-
       <p class="text-lg pb-8">
         No nosso livro digital você vai ter mais de 700 Receitas <b>Testadas</b> e <b>Aprovadas</b>, todas <b>Sem Açúcar</b> e <b>Sem Glúten</b> para todas as Refeições do seu dia! Desenvolvidas para proporcionar uma alimentação equilibrada, saborosa e prática, visando manter a saúde e o equilíbrio hormonal do seu corpo. 
       </p>
-
       <p class="text-lg pb-8">
         Estamos falando de pratos <b>variados, saborosos e suculentos!</b> Você vai ter <b>PRAZER</b> em comer novamente!
       </p>
@@ -279,7 +262,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
   </div>
 
   <div class="w-3/4 grid grid-cols-3 gap-6 mx-auto text-[#004460] pb-16">
-
     <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
       <div class="mb-8 bg-white">
         <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/marinete-santos.png" />
@@ -291,7 +273,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         Esse é o melhor E-book de receitas que já comprei! As receitas são maravilhosas.
       </div>
     </div>
-
     <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
       <div class="mb-8 bg-white">
         <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/joana.silva.png" />
@@ -303,7 +284,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         A variedade de receitas é incrível, estou amando, agora eu e minha família podemos comer de forma mais saudável.
       </div>
     </div>
-
     <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
       <div class="mb-8 bg-white">
         <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/ester-oliveira.png" />
@@ -315,7 +295,6 @@ title: "700 Receitas Zero Açúcar e Glúten"
         Esse livro de receitas tem ajudado demais, como meu pai precisa controlar os níveis de açúcar, eu posso fazer deliciosas receitas com zero açúcar e meu pai está amando!
       </div>
     </div>
-
   </div>
 
   <div class="w-full grid grid-cols-2 gap-6 px-16 mx-auto pb-16">
@@ -437,4 +416,65 @@ title: "700 Receitas Zero Açúcar e Glúten"
       </p>
     </div>
   </div>
+</div>
+
+<div class="w-full bg-white">
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center my-12 text-[#004460]">
+      <h1 class="font-bold">
+        <span class="text-3xl block mb-4">
+          SUA SAÚDE VALE MAIS DO QUE R$ 0,59 POR DIA?
+        </span>
+      </h1>
+      <p class="text-[#004460] font-bold text-lg block mb-16">
+        <b>SE SIM</b>, NÃO DEIXE PARA DEPOIS! COMPRANDO AGORA O <b>700 RECEITAS ZERO PARCELADO EM 6X</b> VOCÊ PAGA APENAS <b>R$ 0,59 POR DIA</b> PARA NUNCA MAIS TER QUE FICAR COMENDO AQUELAS COMIDAS RUINS SEM GRAÇA E SEM TEMPERO
+      </p>
+      <div class="pb-16 pt-8">
+        <a 
+          href="https://pay.kiwify.com.br/xbsJ8Yu?afid=Xkj5Adud"
+          class="bg-[#007127] drop-shadow-[0_0_5px_rgba(0,0,0,0.6)] shadow-black text-white rounded-lg py-7 px-16 font-bold text-2xl"
+        >
+          SIM! EU QUERO AS RECEITAS
+        </a>
+      </div>
+      <img class="mx-auto mb-12" src="https://servicodeafiliados.github.io/700receitas/assets/img/kiwify-cartoes.png" />
+      <div class="w-2/3 mx-auto">
+        <p class="text-[#004460] font-extrabold text-[3rem] block mb-16 mt-24">
+          DÚVIDAS FREQUENTES
+        </p>
+        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+          COMO VOU RECEBER O E-BOOK COM AS 700 RECEITAS ZERO AÇÚCAR E GLÚTEN?
+        </p>
+        <p class="text-[#004460] text-lg block mb-16 ">
+          Após a confirmação do pagamento o envio é imediato, você receberá no seu e-mail um link para acessar a plataforma segura da Kiwify e fazer o download (Baixar o E-book). Ele poderá ser acessado no computador, tablet ou celular e você poderá imprimir com muita facilidade caso desejar.
+        </p>
+        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+          QUAIS SÃO AS FORMAS DE PAGAMENTO? E SE É SEGURO?
+        </p>
+        <p class="text-[#004460] text-lg block mb-16 ">
+          Nossa plataforma de pagamento é a <b>Kiwify</b> uma das mais <b>Seguras da Atualidade</b> e você pode realizar o pagamento utilizando todos os <b>Cartões de Crédito, Pix ou boleto bancário</b>.<br /><br />
+          <b>Dica:</b> Ao pagar com o <b>Cartão de Crédito e Pix</b>, você garante o desconto e ainda recebe em segundos todo o material completo no seu e-mail e já começa a controlar o diabetes comendo mais saudável ainda hoje.<br /><br />
+          No caso de pagamento via boleto, a liberação do material ocorre após a compensação bancária.
+        </p>
+        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+          AS RECEITAS SUBSTITUEM A MEDICAÇÃO QUE EU TOMO?
+        </p>
+        <p class="text-[#004460] text-lg block mb-16 ">
+          Não. Definitivamente, as nossas receitas não incentivam o abandono de todo ou qualquer medicação já receitada.
+        </p>
+        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+          EU TOMO REMÉDIO CONTROLADO, DEVO CONSULTAR O MÉDICO ANTES DE FAZER AS RECEITAS?
+        </p>
+        <p class="text-[#004460] text-lg block mb-16 ">
+          As receitas divulgadas nesse material têm apenas a função de fornecer alternativas mais saudáveis, com ingredientes mais nutritivos, o que pode não se aplicar a casos específicos. Consulte sempre um profissional (nutricionista ou médico) para saber quais alimentos e suplementos nutricionais são indicados em seu caso.
+        </p>
+      </div>
+      <div class="w-4/5 grid grid-cols-2 mx-auto mt-24">
+        <div class="text-md font-bold uppercase text-center">POLÍTICA DE PRIVACIDADE</div>
+        <div class="text-md font-bold uppercase text-center">TERMOS DE USO</div>
+      </div>
+    </div>
+  </div>
+
 </div>
