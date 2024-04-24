@@ -203,6 +203,46 @@ title: "700 Receitas Zero Açúcar e Glúten"
       <p class="text-lg pb-8">
         Estamos falando de pratos <b>variados, saborosos e suculentos!</b> Você vai ter <b>PRAZER</b> em comer novamente!
       </p>
+      <div class="slider">
+        <div class="slide-track">
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem1.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem2.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem3.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem4.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem5.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem6.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem7.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem8.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem9.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem10.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem11.png" | relative_url }}" alt="" />
+          </div>
+          <div class="slide">
+            <img src="{{ "/assets/img/receitas/imagem12.png" | relative_url }}" alt="" />
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
