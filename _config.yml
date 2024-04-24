@@ -1,5 +1,5 @@
 url: 'https://servicodeafiliados.github.io/'
-baseurl: '700receitas'
+baseurl: '/700receitas'
 title: '700 Receitas Zero Açúcar e Glúten'
 
 plugins:
