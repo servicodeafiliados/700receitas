@@ -474,7 +474,9 @@ title: "700 Receitas Zero Açúcar e Glúten"
         <div class="text-md font-bold uppercase text-center">
           <a href="{{ "/politica-privacidade" | relative_url }}">POLÍTICA DE PRIVACIDADE</a>
         </div>
-        <div class="text-md font-bold uppercase text-center">TERMOS DE USO</div>
+        <div class="text-md font-bold uppercase text-center">
+          <a href="{{ "/termos-de-uso" | relative_url }}">TERMOS DE USO</a>
+        </div>
       </div>
     </div>
   </div>
