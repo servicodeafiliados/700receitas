@@ -113,7 +113,7 @@ title: "700 Receitas Zero Açúcar e Glúten"
     </div>
   </div>
 
-  <div class="w-4/5 grid grid-cols-4 gap-4 mx-auto text-[#004460] pb-16">
+  <div class="w-4/5 grid grid-cols-3 gap-4 mx-auto text-[#004460] pb-16">
 
     <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
       <div class="mb-8">
@@ -124,6 +124,66 @@ title: "700 Receitas Zero Açúcar e Glúten"
       </div>
       <div>
         RECEITAS PARA CAFÉ DA MANHÃ E LANCHES QUE VOCÊ <b>NUNCA</b> VIU ANTES! MODO DE PREPARO RÁPIDO COM INGREDIENTES PRÁTICOS E BARATOS!
+      </div>
+    </div>
+
+    <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
+      <div class="mb-8">
+        <img src="https://servicodeafiliados.github.io/700receitas/assets/img/almoco-e-jantar.png" />
+      </div>
+      <div class="text-lg uppercase mb-8 font-bold text-[#004460]">
+        ALMOÇO E JANTAR
+      </div>
+      <div>
+        USE E ABUSE DOS MAIS DIFERENTES E SABOROSOS PRATOS PARA O SEU DIA-A-DIA E EVENTOS ESPECIAIS! FEITOS COM INGREDIENTES QUE VOCÊ TEM EM CASA E QUE NÃO VÃO <b>DESCONTROLAR</b> A SUA GLICEMIA.
+      </div>
+    </div>
+
+    <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
+      <div class="mb-8">
+        <img src="https://servicodeafiliados.github.io/700receitas/assets/img/doces-e-sobremesas.png" />
+      </div>
+      <div class="text-lg uppercase mb-8 font-bold text-[#004460]">
+        DOCES E SOBREMESAS
+      </div>
+      <div>
+        SÃO MAIS DE 100 OPÇÕES DE DOCES E SOBREMESAS <b>SEM GLÚTEN</b> E <b>SEM AÇÚCAR</b> PARA VOCÊ FAZER QUANTAS VEZES E A QUANTIDADE QUE QUISER E COMER SEM CULPA NENHUMA!
+      </div>
+    </div>
+
+    <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
+      <div class="mb-8">
+        <img src="https://servicodeafiliados.github.io/700receitas/assets/img/sopas-e-cremes.png" />
+      </div>
+      <div class="text-lg uppercase mb-8 font-bold text-[#004460]">
+        SOPAS E CREMES ZERO
+      </div>
+      <div>
+        SOPAS, CREMES, CALDOS, TUDO ELABORADO COM INGREDIENTES <b>NUTRITIVOS</b> E <b>TEMPEROS ESPECIAIS</b>!
+      </div>
+    </div>
+
+    <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
+      <div class="mb-8">
+        <img src="https://servicodeafiliados.github.io/700receitas/assets/img/molhos-e-pates.jpg" />
+      </div>
+      <div class="text-lg uppercase mb-8 font-bold text-[#004460]">
+        MOLHOS E PATÊS ZERO
+      </div>
+      <div>
+        MOLHOS E PATÊS DE DAR ÁGUA NA BOCA QUE VÃO DAR UM TOQUE ESPECIAL E SABOROSO NOS SEUS PRATOS! <b>A SUA ALIMENTAÇÃO NUNCA MAIS SERÁ A MESMA</b>!
+      </div>
+    </div>
+
+    <div class="rounded-xl p-8 text-center shadow-md shadow-gray-900 bg-white">
+      <div class="mb-8">
+        <img src="https://servicodeafiliados.github.io/700receitas/assets/img/farinhas-caseiras.png" />
+      </div>
+      <div class="text-lg uppercase mb-8 font-bold text-[#004460]">
+        FARINHAS CASEIRAS ZERO
+      </div>
+      <div>
+        TODAS <b>SEM GLÚTEN</b> E COM <b>BAIXO ÍNDICE GLICÊMICO</b> PARA VOCÊ PREPARAR BOLOS, PÃES, DOCES E OUTROS PRATOS SEM PREOCUPAÇÃO.
       </div>
     </div>
 
