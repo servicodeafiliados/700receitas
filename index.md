@@ -418,7 +418,7 @@ title: "700 Receitas Zero Açúcar e Glúten"
       </ul>
       <p class="mb-8 text-lg line-through">De R$ 197,00 por apenas</p>
       <p class="text-[3rem] mb-16 font-extrabold">R$ 97,00</p>
-      <div class="pb-12">
+      <div class="pb-8">
         <a 
           href="https://pay.kiwify.com.br/xbsJ8Yu?afid=Xkj5Adud"
           class="bg-[#007127] drop-shadow-[0_0_5px_rgba(0,0,0,0.6)] shadow-black text-white rounded-lg py-7 px-16 font-bold text-2xl"
@@ -426,6 +426,15 @@ title: "700 Receitas Zero Açúcar e Glúten"
           COMPRAR AGORA
         </a>
       </div>
+      <p class="pb-4 pt-8 text-3xl">
+        ou <b>6x R$ 17,90</b>
+      </p>
+      <p class="pt-4 text-xl font-bold">
+        🔒 COMPRA ALTAMENTE SEGURA
+      </p>
+      <p class="pb-12 text-xl font-bold">
+        SITE 100% SEGURO
+      </p>
     </div>
   </div>
 </div>
