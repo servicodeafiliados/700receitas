@@ -6,6 +6,14 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="shortcut icon" type="image/ico" href="{{ "/assets/img/favicon.ico" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-967110199"></script>
+    <script> 
+      window.dataLayer = window.dataLayer || []; 
+      function gtag(){dataLayer.push(arguments);} 
+      gtag('js', new Date()); 
+      gtag('config', 'AW-967110199'); 
+    </script>
   </head>
   <body>
     {{ content }}
