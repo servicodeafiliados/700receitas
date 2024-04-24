@@ -4,7 +4,7 @@ title: "Política de Privacidade"
 ---
 
 <div class="pt-10 w-full">
-  <div class="w-1/2 mx-auto">
+  <div class="md:w-1/2 mx-8 md:mx-auto">
     <h1 class="text-4xl mb-12">1. Termos</h1>
     <p class="mb-8 text-lg">
       Ao acessar ao site 700 Receitas Zero Açúcar e Glúten, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.

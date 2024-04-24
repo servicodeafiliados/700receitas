@@ -4,7 +4,7 @@ title: "Política de Privacidade"
 ---
 
 <div class="pt-10 w-full">
-  <div class="w-1/2 mx-auto">
+  <div class="md:w-1/2 mx-8 md:mx-auto">
     <h1 class="text-4xl mb-12">Política Privacidade</h1>
     <p class="mb-8 text-lg">
       A sua privacidade é importante para nós. É política do 700 Receitas Zero Açúcar e Glúten respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site 700 Receitas Zero Açúcar e Glúten, e outros sites que possuímos e operamos.
