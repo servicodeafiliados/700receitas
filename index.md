@@ -190,3 +190,37 @@ title: "700 Receitas Zero Açúcar e Glúten"
   </div>
 
 </div>
+
+<div class="w-full bg-white">
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center my-12 text-[#004460]">
+      <h1 class="font-bold">
+        <span class="text-3xl block">
+          SABE AQUELES SINTOMAS DO DIABETES QUE TANTO ATRAPALHA O SEU DIA A DIA? ESQUEÇA! ESQUEÇA TAMBÉM UMA ALIMENTAÇÃO RESTRITA, SEM GRAÇA, QUE TIRA TODO O SEU PRAZER DE COMER!
+        </span>
+      </h1>
+
+      <p class="text-lg pt-16 pb-8">
+        Sabemos o quão difícil é ter diabetes e conviver com os sintomas todos os dias. Você pode pensar que é uma sentença de prisão perpétua em que está atolado em injeções dolorosas e uma rotina de ter que negar a si mesmo os prazeres da comida para sempre.
+      </p>
+
+      <p class="text-lg pb-8">
+        Mas estamos aqui para te provar o contrário! Agora você pode comer os mais diferentes e saborosos tipos de comidas e ainda manter o equilíbrio para que os níveis de açúcar no sangue não sejam mais um problema para você. 
+      </p>
+
+      <p class="text-lg pb-8">
+        Mesmo que você se sinta perdida, ansiosa e mesmo que você não entenda nada sobre nutrição e diabetes! Coma bem, sentindo o gosto dos alimentos e ainda controle a glicemia de forma natural! 
+      </p>
+
+      <p class="text-lg pb-8">
+        No nosso livro digital você vai ter mais de 700 Receitas <b>Testadas</b> e <b>Aprovadas</b>, todas <b>Sem Açúcar</b> e <b>Sem Glúten</b> para todas as Refeições do seu dia! Desenvolvidas para proporcionar uma alimentação equilibrada, saborosa e prática, visando manter a saúde e o equilíbrio hormonal do seu corpo. 
+      </p>
+
+      <p class="text-lg pb-8">
+        Estamos falando de pratos <b>variados, saborosos e suculentos!</b> Você vai ter <b>PRAZER</b> em comer novamente!
+      </p>
+    </div>
+  </div>
+
+</dov>
