@@ -443,13 +443,13 @@ title: "700 Receitas Zero Açúcar e Glúten"
         <p class="text-[#004460] font-extrabold text-[3rem] block mb-16 mt-24">
           DÚVIDAS FREQUENTES
         </p>
-        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+        <p class="text-[#004460] font-bold text-xl block mb-8 ">
           COMO VOU RECEBER O E-BOOK COM AS 700 RECEITAS ZERO AÇÚCAR E GLÚTEN?
         </p>
         <p class="text-[#004460] text-lg block mb-16 ">
           Após a confirmação do pagamento o envio é imediato, você receberá no seu e-mail um link para acessar a plataforma segura da Kiwify e fazer o download (Baixar o E-book). Ele poderá ser acessado no computador, tablet ou celular e você poderá imprimir com muita facilidade caso desejar.
         </p>
-        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+        <p class="text-[#004460] font-bold text-xl block mb-8 ">
           QUAIS SÃO AS FORMAS DE PAGAMENTO? E SE É SEGURO?
         </p>
         <p class="text-[#004460] text-lg block mb-16 ">
@@ -457,13 +457,13 @@ title: "700 Receitas Zero Açúcar e Glúten"
           <b>Dica:</b> Ao pagar com o <b>Cartão de Crédito e Pix</b>, você garante o desconto e ainda recebe em segundos todo o material completo no seu e-mail e já começa a controlar o diabetes comendo mais saudável ainda hoje.<br /><br />
           No caso de pagamento via boleto, a liberação do material ocorre após a compensação bancária.
         </p>
-        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+        <p class="text-[#004460] font-bold text-xl block mb-8 ">
           AS RECEITAS SUBSTITUEM A MEDICAÇÃO QUE EU TOMO?
         </p>
         <p class="text-[#004460] text-lg block mb-16 ">
           Não. Definitivamente, as nossas receitas não incentivam o abandono de todo ou qualquer medicação já receitada.
         </p>
-        <p class="text-[#004460] font-bold text-2xl block mb-8 ">
+        <p class="text-[#004460] font-bold text-xl block mb-8 ">
           EU TOMO REMÉDIO CONTROLADO, DEVO CONSULTAR O MÉDICO ANTES DE FAZER AS RECEITAS?
         </p>
         <p class="text-[#004460] text-lg block mb-16 ">
@@ -477,4 +477,25 @@ title: "700 Receitas Zero Açúcar e Glúten"
     </div>
   </div>
 
+</div>
+
+<div class="w-full bg-[#004460]">
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center mt-12 mb-8 text-white text-sm">
+      <p class="mb-4">
+        Todas as informações e conceitos utilizados aqui tem como objetivo apenas informar e educar. Este site e o e-book 700 Receitas ZERO Açúcar e Glúten foram disponibilizados com esse objetivo e não tem como intenção nenhuma servir ou substituir prescrição médica. Nenhuma informação deste site e do e-book 700 Receitas ZERO Açúcar e Glúten substitui uma consulta com seu médico, nutricionista ou profissional da saúde. Sempre procure um profissional da saúde antes de começar qualquer mudança na sua alimentação, inclusive o uso das receitas deste e-book.
+      </p>
+      <p class="mb-4">
+        Se por algum motivo você não gostar do material, ou achar que não serve pra você, não se preocupe, você tem uma garantia de 7 dias úteis a partir do momento da entrega. 
+      </p>
+      <p class="mb-4">
+        Para mais informações entre em contato conosco: 700receitaszero@gmail.com
+      </p>
+      <p>
+        COPYRIGHT  | 700 RECEITAS ZERO AÇÚCAR – TODOS OS DIREITOS RESERVADOS.
+      </p>
+    </div>
+  </div>
+  <div class="w-full h-1 bg-yellow-500"></div>
 </div>
