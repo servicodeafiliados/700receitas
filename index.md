@@ -223,4 +223,108 @@ title: "700 Receitas Zero Açúcar e Glúten"
     </div>
   </div>
 
-</dov>
+</div>
+
+<div class="w-full bg-gradient-to-r from-[#004c7d] to-[#002448]">
+  <svg class="w-full h-[36px] fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+    <path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"></path>
+    <path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"></path>
+    <path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"></path>
+  </svg>
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center my-12">
+      <h1 class="text-white font-bold mb-8">
+        <span class="text-3xl block">
+          Não perca essa oportunidade!
+        </span>
+      </h1>
+      <p class="text-white font-bold text-3xl block mb-2">Promoção do livro por tempo limitado</p>
+      <p class="text-white font-bold text-3xl block mb-12">Mais de 60% de Desconto!</p>
+      <img class="mx-auto mb-12" src="https://servicodeafiliados.github.io/700receitas/assets/img/capa-ipad.png" />
+      <p class="text-white text-2xl block mb-2">
+        De <span class="font-bold text-[#ff0000] line-through">R$ 197,00</span> por <span class="font-bold text-[#00ff00]">R$ 97,00</span>
+      </p>
+      <p class="text-white text-2xl block mb-2">OU</p>
+      <p class="text-white text-2xl block">
+        Por apenas <span class="font-bold text-[#00ff00]">6x</span> de <span class="font-bold text-[#00ff00]">R$ 17,90</span>
+      </p>
+      <div class="pt-24 pb-12">
+        <a 
+          href="https://pay.kiwify.com.br/xbsJ8Yu?afid=Xkj5Adud"
+          class="bg-[#007127] drop-shadow-[0_0_5px_rgba(0,0,0,0.6)] shadow-black text-white rounded-lg py-7 px-16 font-bold text-2xl"
+        >
+          SIM! EU QUERO AS RECEITAS
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="w-full bg-white">
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center my-12 text-[#004460]">
+      <h1 class="font-bold">
+        <span class="text-3xl block mb-4">
+          QUEM COMPROU, APROVOU!
+        </span>
+      </h1>
+      <p class="text-[#004460] font-bold text-lg block mb-8">
+        VEJA A OPINIÃO SINCERA DE QUEM ADQUIRIU NOSSAS RECEITAS
+      </p>
+      <img class="mx-auto mb-12" src="https://servicodeafiliados.github.io/700receitas/assets/img/depoimento-1.jpeg" />
+    </div>
+  </div>
+
+  <div class="w-3/4 grid grid-cols-3 gap-6 mx-auto text-[#004460] pb-16">
+
+    <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
+      <div class="mb-8 bg-white">
+        <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/marinete-santos.png" />
+      </div>
+      <div class="text-3xl mb-8 font-extrabold">
+        Marinete Santos
+      </div>
+      <div>
+        Esse é o melhor E-book de receitas que já comprei! As receitas são maravilhosas.
+      </div>
+    </div>
+
+    <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
+      <div class="mb-8 bg-white">
+        <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/joana.silva.png" />
+      </div>
+      <div class="text-3xl mb-8 font-extrabold">
+        Joana Silva
+      </div>
+      <div>
+        A variedade de receitas é incrível, estou amando, agora eu e minha família podemos comer de forma mais saudável.
+      </div>
+    </div>
+
+    <div class="border border-gray-400 rounded-xl p-8 text-center shadow-lg shadow-gray-600">
+      <div class="mb-8 bg-white">
+        <img class="rounded-full mx-auto" src="https://servicodeafiliados.github.io/700receitas/assets/img/ester-oliveira.png" />
+      </div>
+      <div class="text-3xl mb-8 font-extrabold">
+        Ester Oliveira
+      </div>
+      <div>
+        Esse livro de receitas tem ajudado demais, como meu pai precisa controlar os níveis de açúcar, eu posso fazer deliciosas receitas com zero açúcar e meu pai está amando!
+      </div>
+    </div>
+
+  </div>
+
+  <div class="w-full grid grid-cols-2 gap-6 px-16 mx-auto pb-16">
+    <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/l7B9AGZTUb0?si=nZUIhCk_lR4n_UvG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/LbRJ3qnzuMc?si=Jxq_FVH6iuop5LdB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </div>
+
+</div>
