@@ -374,3 +374,21 @@ title: "700 Receitas Zero Açúcar e Glúten"
   </div>
 
 </div>
+
+<div class="w-full bg-white">
+
+  <div class="flex w-full items-center justify-center">
+    <div class="w-4/5 text-center my-12 text-[#004460]">
+      <h1 class="font-bold">
+        <span class="text-3xl block mb-4">
+          GARANTIA INCONDICIONAL
+        </span>
+      </h1>
+      <p class="text-[#004460] font-bold text-lg block mb-16">
+        Adquirindo o nosso e-book e por algum motivo não gostar, basta nos pedir o seu dinheiro de volta em até 7 dias depois da compra e nós devolvemos 100% dele, sem nenhuma burocracia!
+      </p>
+      <img class="mx-auto mb-12" src="https://servicodeafiliados.github.io/700receitas/assets/img/selo-garantia.png" />
+    </div>
+  </div>
+
+</div>
